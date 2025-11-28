@@ -1,6 +1,6 @@
 # top, ps, jobs, kill 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=top%2C+ps%2C+jobs%2C+kill+)](https://git.io/typing-svg)
-### oss_03 컴퓨터공학과 20233177 주혜림
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0700FF&width=435&lines=oss_03+%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EA%B3%BC+20233177+%EC%A3%BC%ED%98%9C%EB%A6%BC;%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4+03%EB%B6%84%EB%B0%98+%EA%B3%BC%EC%A0%9C+%232)](https://git.io/typing-svg)
+
 ---
 
 ## top : 실시간 시스템 모니터링
