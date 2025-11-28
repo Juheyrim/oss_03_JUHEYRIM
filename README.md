@@ -1,5 +1,5 @@
 # top, ps, jobs, kill 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=top%2C+ps%2C+jobs%2C+kill+)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=top%2C+ps%2C+jobs%2C+kill+)](https://git.io/typing-svg)
 ### oss_03 컴퓨터공학과 20233177 주혜림
 ---
 
