@@ -3,7 +3,7 @@
 
 ![캡처 이미지](Image/linux.JPG)
 
-<img src="https://img.shields.io/badge/linux-3178C6?style=flat&logo=linux&logoColor=white"/>
+![Linux](https://img.shields.io/badge/Linux-3178C6?style=flat&logo=linux&logoColor=white)
 
 ---
 
