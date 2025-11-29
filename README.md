@@ -153,7 +153,8 @@ CPU, 메모리 사용량, 프로세스 정보 등을 **실시간으로 모니터
 ``` user@linux:~$ ping google.com &
 [1] 12345
 user@linux:~$ jobs
-[1]+  Running                 ping google.com & ```
+[1]+  Running                 ping google.com &
+```
 위 예제에서는 ping 명령어가 백그라운드에서 실행되며, 작업 번호는 1번, 프로세스 ID는 12345이다.
 
 jobs 명령어를 입력하면, 현재 실행 중인 작업 목록이 표시된다.
