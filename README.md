@@ -142,5 +142,30 @@ CPU, 메모리 사용량, 프로세스 정보 등을 **실시간으로 모니터
 
 + 작업 관리 준비: fg (포그라운드 전환), bg (백그라운드 실행), kill (종료) 등의 다른 작업 제어 명령어와 연동해 작업을 지정하고 관리할 수 있도록 **작업 번호**를 제공한다.
 
+
+### 사용법 및 출력 형식
+
+**기본 사용법**
+`$ jobs <옵션>`
+
+
+**출력 형식**
+``` user@linux:~$ ping google.com &
+[1] 12345
+user@linux:~$ jobs
+[1]+  Running                 ping google.com & ```
+위 예제에서는 ping 명령어가 백그라운드에서 실행되며, 작업 번호는 1번, 프로세스 ID는 12345이다.
+
+jobs 명령어를 입력하면, 현재 실행 중인 작업 목록이 표시된다.
+
+
+이제 다른 명령어를 실행하고, 중간에 일시 중지한 후 작업 목록을 다시 확인해보자.
+
+
+
+
 ### 참고
 [리눅스 ps 명령어 참고자료](https://zzsza.github.io/development/2018/07/18/linux-top/)
+
+
+[리눅스 jobs 명령어 참고자료](https://monkeybusiness.tistory.com/630#google_vignette)
