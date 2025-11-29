@@ -107,3 +107,7 @@ CPU, 메모리 사용량, 프로세스 정보 등을 실시간으로 모니터�
 ### ps와 top의 차이점
 + ps는 **ps한 시점**에 proc에서 검색한 cpu 사용량
 + top은 proc에서 **일정 주기로 합산**해 cpu 사용률 출력
+
+
+### 참고
+[리눅스 ps 명령어 참고자료](https://zzsza.github.io/development/2018/07/18/linux-top/)
