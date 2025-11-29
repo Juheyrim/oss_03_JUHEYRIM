@@ -4,6 +4,8 @@
 ![캡처 이미지](Image/linux.JPG)
 
 ![Linux](https://img.shields.io/badge/Linux-3178C6?style=flat&logo=linux&logoColor=white)
+![tux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+
 
 ---
 
