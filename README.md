@@ -105,5 +105,5 @@ CPU, 메모리 사용량, 프로세스 정보 등을 실시간으로 모니터�
 `ps aux --sort=-%cpu | head` 이렇게 하면 **CPU 사용량이 높은 순서대로 확인**할 수 있다.
 
 ### ps와 top의 차이점
-> ps는 ps한 시점에 proc에서 검색한 cpu 사용량
-> top은 proc에서 일정 주기로 합산해 cpu 사용률 출력
++ ps는 **ps한 시점**에 proc에서 검색한 cpu 사용량
++ top은 proc에서 **일정 주기로 합산**해 cpu 사용률 출력
