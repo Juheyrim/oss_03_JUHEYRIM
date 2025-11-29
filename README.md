@@ -1,6 +1,8 @@
 # top, ps, jobs, kill 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=20233177+%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EA%B3%BC+%EC%A3%BC%ED%98%9C%EB%A6%BC;oss_03+%EA%B3%BC%EC%A0%9C+%232)](https://git.io/typing-svg)
 
+![캡처 이미지](Image/linux.JPG)
+
 ---
 
 ## 🐧 top : 실시간 시스템 모니터링
