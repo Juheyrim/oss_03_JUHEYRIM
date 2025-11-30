@@ -279,6 +279,11 @@ user@linux:~/Documents$ kill -9 5678
 
 ---
 
+### top, ps, jobs, kill 명령어 정리
+
+![캡처 이미지](Image/final.PNG)
+
+---
 
 ### 참고
 [리눅스 ps 명령어 참고자료](https://zzsza.github.io/development/2018/07/18/linux-top/)
