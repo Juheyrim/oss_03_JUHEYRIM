@@ -277,6 +277,8 @@ user@linux:~/Documents$ kill -9 5678
 
 이 명령어는 **SIGKILL(9) 시그널을 보내 python3 프로세스를 즉시 강제 종료**한다. 프로세스가 응답하지 않을 때 유용하며, 해당 프로세스는 강제로 메모리에서 제거된다
 
+---
+
 
 ### 참고
 [리눅스 ps 명령어 참고자료](https://zzsza.github.io/development/2018/07/18/linux-top/)
