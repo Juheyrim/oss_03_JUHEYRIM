@@ -281,7 +281,7 @@ user@linux:~/Documents$ kill -9 5678
 
 ### top, ps, jobs, kill 명령어 정리
 
-![캡처 이미지](Image/final.PNG)
+![캡처 이미지](Image/final.png)
 
 ---
 
